@@ -1,5 +1,5 @@
 # 👋 Hello, I’m @axel-t81.
-:grin: My real name is Axel. But I often use the online persona, Kojrey *(i.e. 'Koh-dree')*.
+:grin: My real name is Axel. But I often use the online persona, Kojrey *(pronounced KOH-dree)*.
 
 ## Introduction
 🌱 As of March 2024 I've been transitioning careers from accounting & bookkeeping to becoming a developer or software engineer. I'm making use of the vast amount of learning materials online, while also studying a **_Masters of IT at the University of New England (UNE)_**.
